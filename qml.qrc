@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>EInformation.qml</file>
+        <file>ETip.qml</file>
+        <file>EItem.qml</file>
+        <file>EPanel.qml</file>
+    </qresource>
+</RCC>
